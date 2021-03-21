@@ -1,5 +1,5 @@
 # My Ferdi Recipes
-Includes new recipes and updated and / or modified original recipes
+Includes new recipes and updated and / or modified original Franz or Ferdi recipes
 
 # How to add custom Ferdi Recipes
 Go to your recipe folder which should be found in the following<br><br>
